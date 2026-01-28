@@ -13,7 +13,7 @@
 
 - **Formato:** Presencial 
 - **Data:** 10, 11, e 12 de março de 2026
-- **Horário:** 09:00 às 17:00 horas (com 2h00min de intervalo de almoço)
+- **Horário:** 09:00 às 17:00 horas (com 2H de intervalo de almoço)
 - **Local:** Universidade Federal do Mato Grosso do Sul (UFMS)
 - **Vagas disponíveis:** Presencial - 40 vagas
 - **Carga Horária:** 18 horas
@@ -30,12 +30,12 @@
 
 | Data | Horário | Carga Horária | Aulas |
 |------|---------|:-------------:|--------|
-| 26/nov | 09:00-12:00 | 3h | **AULA 1 (*online*):** Plotagem de Imagens de Satélite |
-| 26/nov | 14:00-17:00 | 3h | **AULA 1 (*presencial*):** Plotagem de Imagens de Satélite |
-| 27/nov | 09:00-12:00 | 3h | **AULA 2 (*online*):** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
-| 27/nov | 14:00-17:00 | 3h | **AULA 2 (*presencial*):** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
-| 28/nov | 09:00-12:00 | 3h | **AULA 3 (*online*):** Índices de Vegetação com Google Earth Engine |
-| 28/nov | 14:00-17:00 | 3h | **AULA Bônus:** Trabalhando com Dados do ERA5 na Nuvem
+| 10/nov | 09:00-12:00 | 3h | **AULA 1:** Visualização de Imagens de satélite GOES-16/19 |
+| 10/nov | 14:00-17:00 | 3h | **AULA 2:** Analisando dados de relâmpagos do GLM |
+| 11/nov | 09:00-12:00 | 3h | **AULA 3:** Processando e visualizando dados de Estações Meteorológicas |
+| 11/nov | 14:00-17:00 | 3h | **AULA 4:** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
+| 12/nov | 09:00-12:00 | 3h | **AULA 5:** Índices de Vegetação com Google Earth Engine |
+| 12/nov | 14:00-17:00 | 3h | **AULA 6:** Monitoramento em tempo quase-real de queimadas por Satélite |
 
 ---
 
