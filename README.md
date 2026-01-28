@@ -16,7 +16,7 @@
 - **Horário:** 09:00 às 17:00 horas (com 2H de intervalo de almoço)
 - **Local:** Universidade Federal do Mato Grosso do Sul (UFMS)
 - **Vagas disponíveis:** Presencial - 40 vagas
-- **Carga Horária:** 18 horas
+- **Carga Horária:** 21 horas
 
 ---
 
