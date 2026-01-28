@@ -31,11 +31,11 @@
 | Data | Horário | Carga Horária | Aulas |
 |------|---------|:-------------:|--------|
 | 10/mar | 08:30-12:00 | 3h30min | **AULA 1:** Visualização de Imagens de satélite GOES-16/19 |
-| 10/mar | 13:30-17:00 | 3h30min | **AULA 2:** Analisando dados de relâmpagos do GLM |
-| 11/mar | 08:30-12:00 | 3h30min | **AULA 3:** Processando e visualizando dados de Estações Meteorológicas |
+| 10/mar | 13:30-17:00 | 3h30min | **AULA 2:** Analisando Dados de Relâmpagos do Sensor GLM |
+| 11/mar | 08:30-12:00 | 3h30min | **AULA 3:** Processando e Visualizando Dados de Estações Meteorológicas |
 | 11/mar | 13:30-17:00 | 3h30min | **AULA 4:** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
 | 12/mar | 08:30-12:00 | 3h30min | **AULA 5:** Índices de Vegetação com Google Earth Engine |
-| 12/mar | 13:30-17:00 | 3h30min | **AULA 6:** Monitoramento em tempo quase-real de queimadas por Satélite |
+| 12/mar | 13:30-17:00 | 3h30min | **AULA 6:** Monitoramento em Tempo Quase-Real de Queimadas por Satélite |
 
 ---
 
