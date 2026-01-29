@@ -134,7 +134,7 @@ O repositório do curso possui as seguintes diretórios e códigos python:
    > - **04_logos:** logos/figura utilizadas dentros dos códigos
  
 - **Códigos:**
-   > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:**
+   > - **AULA_1_Plotagem_de_Imagens_de_Satelite.ipynb:** código python da Aula 01 - Processamento e Visualização de Imagens de Satélite
    > - **AULA_2_Relampagos.ipynb:**
    > - **Aula_3_Estacoes_Meteorologicas.ipynb:**
    > - **AULA_4_Mapas_e_Series_Temporais_de_Precipitacao_Estimada_por_Satelite.ipynb:**
