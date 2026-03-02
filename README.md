@@ -53,10 +53,15 @@
 - Plotando Painel de Imagens
 
 ### Aula 2: Analisando Dados de Relâmpagos Estimados por Satélite
-- Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização: Dados a cada 20s da NOAA
-- Fundamentos dos Dados de Relâmpagos, Download, Processamento e Visualização: Dados a cada 5min do INPE
-- Combinação de Imagens de Satélite e Relâmpagos do GLM
-- Evolução Temporal da Temperatura de Brilho do IR e Relâmpagos 
+- Dados da Amazon a cada 20s - Download e Conhecendo os Dados
+- Dados da Amazon a cada 20s - Visualização da Imagem de um Arquivo de Relâmpago num Mapa Estático
+- Dados da Amazon a cada 20s - Visualização da Imagem de Vários Arquivos de Relâmpagos num Mapa Interativo
+- Dados da Amazon a cada 20s - Acumulando Relâmpagos para um Dia de Dados
+- Dados da Amazon a cada 20s - Combinação de Imagens de Satélite e Relâmpagos
+- Dados da Amazon a cada 20s - Evolução Temporal da Temperatura de Brilho do IR e Relâmpagos
+- Dados do INPE a cada 5min - Download e Processamento
+- Dados do INPE a cada 5min - Visualização de Mapa de Relâmpago para um Determinado Dia
+- Dados do INPE a cada 5min - Visualização de Série Temporal
 
 ### Aula 3: Processando e Visualizando Dados de Estações Meteorológicas
 -	Conhecendo os Dados das Estações Meteorológicas do INMET
