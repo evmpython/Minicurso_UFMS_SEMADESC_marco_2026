@@ -35,7 +35,7 @@
 | 10/março | 13:30-17:30 | 4h00min | **AULA 2:** Analisando Dados de Relâmpagos Estimados por Satélite |
 | 11/março | 08:30-12:00 | 3h30min | **AULA 3:** Processando e Visualizando Dados de Estações Meteorológicas |
 | 11/março | 13:30-17:00 | 3h30min | **AULA 4:** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
-| 12/março | 09:00-12:00 | 3h00min | **AULA 5:** Índices de Vegetação com Google Earth Engine |
+| 12/março | 09:00-12:00 | 3h00min | **AULA 5:** Índices de Vegetação com Google Earth Engine (GEE)|
 | 12/março | 13:30-17:30 | 4h00min | **AULA 6:** Monitoramento de Queimadas por Satélite |
 
 *Coffe Break: Todas as Manhãs das 10:00 às 10:15h e Tardes das 15:00 às 15:15h
