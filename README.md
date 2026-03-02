@@ -1,4 +1,4 @@
-![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_UFMS_SEMADESC_marco_2026/main/04_logos/logo_minicurso.png)
+![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_UFMS_SEMADESC_marco_2026/main/04_logos/logo_curso.png)
 ---
 
 # 💻 Minicurso: 
